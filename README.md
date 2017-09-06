@@ -153,7 +153,7 @@ building path(s) ‘/nix/store/x5w0vzn7mhpnmnacwylbxwsdgarzpcbs-out’
 /nix/store/x5w0vzn7mhpnmnacwylbxwsdgarzpcbs-out
 ```
 
-We can see that Nix only built the pieces that were effected by the change.
+We can see that Nix only built the pieces that were impacted by the change.
 
 If we do
 ```
