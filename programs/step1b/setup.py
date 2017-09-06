@@ -1,0 +1,12 @@
+from setuptools import setup, find_packages
+
+setup(
+  name = "step1b",
+  version = "0.1",
+  packages = find_packages(),
+  entry_points= {
+    'console_scripts': [
+      'step1b=step1b:main'
+    ]
+  }
+)
